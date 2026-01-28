@@ -1,7 +1,0 @@
-{
-  "name": "FalaJá - Inteligência de Voz Premium",
-  "description": "Uma plataforma avançada de transcrição de voz com inteligência artificial, oferecendo polimento de texto, histórico de gravações, gestão de créditos e planos premium com uma estética futurista.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
